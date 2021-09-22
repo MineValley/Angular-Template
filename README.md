@@ -7,9 +7,6 @@ Versions:
 - popper.js@1.14.3
 
 Setup:
-
-- Pull this project
-
 - npm install
 - ng serve --open
 
