@@ -6,6 +6,13 @@ Versions:
 - jquery@3.5.1
 - popper.js@1.14.3
 
+Setup:
+
+- Pull this project
+
+- npm install
+- ng serve --open
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.4.
 
 ## Development server
