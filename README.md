@@ -2,9 +2,9 @@
 
 Versions:
 
-- bootstrap@4.5.0
+- bootstrap@5.0.0
 - jquery@3.5.1
-- popper.js@1.14.3
+- @popperjs/core@2.10.1
 
 Setup:
 - npm install
